@@ -6,6 +6,6 @@ a[href="https://validator.w3.org/"] {
     color: red;
 }
 
-ul~p {
-    color: green;
-}
+ul + p {
+    font-size: 24px;
+    }
